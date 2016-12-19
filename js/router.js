@@ -266,10 +266,5 @@ var routers = [
 ]
 
 
-var hashList = {
-    baseData: routers[0],
-    mapData: routers[0],
-}
-
 
 // console.log(routerList.getActiveByHost("mapData"))
