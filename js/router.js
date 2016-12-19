@@ -247,24 +247,3 @@ var routerList = {
         this.setHashContent(routerResult.hash)
      }
 }
-
-var routers = [
-    {
-        name: "activity",
-        title: "活动分析",
-        fa: "fa-bar-chart",
-        children: [
-            {
-                title: "基础数据",
-                hash: "baseData"
-            }, {
-                title: "地域",
-                hash: "mapData"
-            }
-        ]
-    }
-]
-
-
-
-// console.log(routerList.getActiveByHost("mapData"))
