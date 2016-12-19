@@ -1,0 +1,58 @@
+.datainp {
+    width: 200px;
+    height: 30px;
+    border: 1px #A5D2EC solid;
+}
+
+.datep {
+    margin-bottom: 40px;
+    line-height: 24px;
+    margin-right: 15px;
+}
+
+.wicon {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAQCAYAAADj5tSrAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABZ0RVh0Q3JlYXRpb24gVGltZQAwNi8xNS8xNGnF/oAAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzVxteM2AAAAoElEQVQ4jWPceOnNfwYqAz9dYRQ+E7UtwAaGjyUsDAyYYUgJ2HT5LXZLcEmSCnA6duOlN///////H0bDALl8dPH/////Z8FuNW6Qtvw2nL3lyjsGBgYGhlmRqnj1kGwJuqHIlhJlCXq8EOITEsdqCXLEbbr8FisfFkTo+vBZRFZwERNEFFkCiw90nxJtCalxQmzegltCzVyP1RJq5HZ8AABuNZr0628DMwAAAABJRU5ErkJggg==");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+.nav li a.active{
+    color:#1ABC9C
+}
+.navtitle {
+    width: 100px;
+    text-align: center;
+}
+.navbar-header .navtitle:hover{
+    background-color: #14a689;
+    font-size: 14px;
+    color: #fff;
+}
+.navbar-header .navtitle{
+    font-size: 14px;
+}
+.navbar-header .active{
+    background-color: #14a689;
+}
+.navbar .navbar-header a{
+    color: #ffffff;
+}
+.secondnav {
+    padding-top: 8px;
+    height: 35px;
+    font-weight: 600;
+    min-width: 100px;
+    display: block;
+    float: left;
+    text-decoration: none;
+    text-align: center;
+}
+#thirdnav .active{
+    background-color: #A5D2EC
+}
+#leftnav li a{
+    padding-left: 15px;
+}
+.secondnav:hover {
+    text-decoration: none;
+    background-color: #A5D2EC
+}

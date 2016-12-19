@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,input,textarea,p,th,td{margin:0;padding:0;}
+body{ font-size:12px;}
+a{ text-decoration:none;}
+li{ list-style:none;}
+i{ font-style:normal;}
+a img{ display:block; border:none;}
+.left{ display:inline; float:left;}
+.right{ display:inline; float:right;}
+.clear:after{ display:block; content:""; clear:both;}
+.clear{ zoom:1;}
+
+textarea{ resize:none; border:none 0;}
+input,select{ border:none 0; background:none;}
+textarea, input, select { outline:none; }
+table { table-layout:fixed; border-collapse:collapse;}
+body{ font-family:"Microsoft YaHei",'宋体',"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:12px;color:#333;}
